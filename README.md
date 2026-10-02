@@ -111,29 +111,40 @@ The platform enables rapid communication between users and emergency systems thr
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SurajGupta6&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=SurajGupta6&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"
+  alt="GitHub Stats"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajGupta6&layout=compact&langs_count=8&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajGupta6&theme=github-compact&hide_border=true&area=true" width="95%"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajGupta6&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+  alt="Top Languages"
+/>
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SurajGupta6/SurajGupta6/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SurajGupta6/SurajGupta6/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SurajGupta6/SurajGupta6/gh-pages/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/SurajGupta6/SurajGupta6/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
